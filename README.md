@@ -1,23 +1,23 @@
-Welcome to my Github profile! We're playing [the Royal Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur). **Game #31 is in progress,** but you can join!
+> **Safe visual preview only.** This branch shows what a recovered game can look like after an opening roll of zero is automatically passed. The subsequent white-team roll of 1 is **illustrative**, not an actual dice roll. The upstream live game is unchanged. Move submissions are disabled in this preview.
+
+Welcome to my Github profile! We're playing [the Royal Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur). **Game #31: opening-roll recovery preview.**
 
 <p align="center">
-  <b>It's the :black_circle:black team's turn.</b>
+  <b>It's the :white_circle:white team's turn (preview).</b>
 </p>
 
-You're on a team! :wave:
-
-* If you've already played a turn this game, you're already on a team &mdash; check the game log below for a reminder. If it's not your turn, check back later, or ask a friend to make a move.
-* If you've not yet played a turn this game, make a move now to join the **:black_circle:black** team.
+**Expected fixed flow:** Black team rolls **0**, the turn is **automatically passed**, then White team receives a new playable roll. The simulated example below uses **1**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4933.svg">
+  <img src="https://raw.githubusercontent.com/AdityaSreevatsaK/rossjrw/preview/zero-roll-recovery/games/current/board.preview.svg">
 </p>
 
-**:black_circle:Black team:** You rolled a 0!
+**:white_circle:White team:** You rolled a **1**! *(Example roll for demonstration)*
 What would you like to do?
 
-| Choices *(pick one of them!)* |
+| Choices *(preview only: move submission disabled)* |
 | --- |
+| Move a new piece to tile 1 |
 
 -----
 
